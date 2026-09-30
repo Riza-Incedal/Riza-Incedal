@@ -1,4 +1,4 @@
-Hi, I'm Riza Incedal! 👋
+## Hi, I'm Riza Incedal! 👋
 
 I am an ICT student at The Hague University of Applied Sciences with a strong passion for software development.
 
